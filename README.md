@@ -3,13 +3,8 @@
 amogus
 newline newline newline
 
-Feature 1{
-
-
-}
-
 Feature 2{
 
 
-    
+
 }
